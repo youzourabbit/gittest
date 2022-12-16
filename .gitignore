@@ -1,0 +1,5 @@
+#忽略ignoretext.css文件
+ignoretext.css
+
+#忽略test文件夹目录下的所有文件
+/test
